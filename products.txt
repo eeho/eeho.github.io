@@ -1,0 +1,3 @@
+com.ezpls.vocab.newDeck
+com.ezpls.vocab.a1
+
