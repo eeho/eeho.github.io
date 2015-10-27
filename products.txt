@@ -1,2 +1,2 @@
-com.ezpls.vocab.newdeck
+com.ezpls.vocab.a0
 com.ezpls.vocab.a1
