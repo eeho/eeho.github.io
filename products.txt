@@ -1,2 +1,3 @@
 com.ezpls.vocab.a0
 com.ezpls.vocab.a1
+com.ezpls.vocab.a2
